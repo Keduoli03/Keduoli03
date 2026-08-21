@@ -10,3 +10,6 @@
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=Keduoli03&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
+
+<img src="https://count.getloli.com/@ditto?name=ditto&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":name" />
+
